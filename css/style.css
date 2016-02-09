@@ -1,0 +1,38 @@
+
+body{
+    background-color:maroon;
+   
+    
+}
+
+h1{
+    text-align: center; 
+    color:cornsilk;
+    
+}
+h2{
+    text-align: center;
+    border: 2px solid #fff;
+    font-size: 18px;
+    color: navajowhite;
+   
+    
+}
+h3{
+    text-align: center;
+    color: cornsilk;
+}
+h4{
+    text-align: center;
+    
+}
+#non{
+    text-align: center;
+    color: black;
+    
+}
+
+p{
+    text-align: center;
+    color: navajowhite;
+}
